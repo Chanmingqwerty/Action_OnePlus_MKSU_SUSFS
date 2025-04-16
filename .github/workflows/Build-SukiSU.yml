@@ -21,7 +21,7 @@ on:
       KERNEL_VERSION:
         description: "内核版本"
         required: true
-        default: '6.5.30'
+        default: '6.6.30'
       KERNEL_NAME:
         description: "修改内核名称"
         required: true
